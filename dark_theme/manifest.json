@@ -5,41 +5,13 @@
   "description": "Basic dark theme with custom colors",
   "theme": {
     "colors": {
-      "frame": [
-        0,
-        0,
-        0
-      ],
-      "toolbar": [
-        45,
-        45,
-        45
-      ],
-      "tab_text": [
-        255,
-        255,
-        255
-      ],
-      "tab_background_text": [
-        255,
-        255,
-        255
-      ],
-      "bookmark_text": [
-        255,
-        255,
-        255
-      ],
-      "ntp_background": [
-        23,
-        23,
-        23
-      ],
-      "ntp_text": [
-        232,
-        234,
-        237
-      ]
+      "frame": [0, 0, 0],
+      "toolbar": [45, 45, 45],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [23, 23, 23],
+      "ntp_text": [232, 234, 237]
     }
   }
 }
